@@ -5,10 +5,10 @@ Terms
 * _The user_ refers to anyone using Garden Buddy.
 
 ## Who can use Garden Buddy
-Garden Buddy is intented for anyone over the age of 13 in the United States, or older depending on the data colletion laws of the country that the user resides in.
+Garden Buddy is intented for anyone over the age of 13 in the United States, or older depending on the data collection laws of the country that the user resides in.
 
 ## Intended purpose
-Garden Buddy is intended to store the names and watering histories of the user's indoor and outdoor plants. This information is intented to be used to assist the user in determining if and when the plants need water. 
+Garden Buddy is intended to store the names and watering histories of the user's indoor and outdoor plants. This information is intended to be used to assist the user in determining if and when the plants need water. 
 
 Any use of this software outside of it's intended purpose is not recomended nor will Garden Buddy or it's creator, Pothos Leaf LLC, be held responsible for improper use of the software.
 
