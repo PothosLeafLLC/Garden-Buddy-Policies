@@ -18,3 +18,6 @@ Garden Buddy has no knowledge of plant species nor how often they need water. In
 This means that Garden Buddy should only be used as a reference and the user **must** use their best judgement to determine when to water their plants.
 
 By using Garden Buddy the user agrees that Garden Buddy and it's creator, Pothos Leaf LLC, will not be held liable for any loss of property related to improper watering of their plants.
+
+## Privacy policy
+Please review our privacy policy [here](https://github.com/PothosLeafLLC/Garden-Buddy-Policies/blob/master/Data-Privacy-Policy.md).
